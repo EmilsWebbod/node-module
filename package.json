@@ -4,6 +4,7 @@
   "description": "Template for NodeJS Typescript",
   "type": "module",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "start": "tsc --incremental --watch",
     "build": "tsc",

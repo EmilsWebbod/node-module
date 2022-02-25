@@ -2,6 +2,7 @@
   "compilerOptions": {
     /* Build options */
     "jsx": "react",
+    "sourcemap": true,
     "declaration": true                       /* Generates corresponding '.d.ts' file. */,
     "declarationMap": true                    /* Generates a sourcemap for each corresponding '.d.ts' file. */,
     "skipLibCheck": true,
