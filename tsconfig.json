@@ -23,5 +23,5 @@
     "plugins": []
   },
   "include": ["lib/**/*"],
-  "exclude": ["lib/src"]
+  "exclude": ["node_modules"]
 }
